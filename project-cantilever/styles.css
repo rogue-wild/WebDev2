@@ -1,27 +1,33 @@
 
 body{
     text-align: left;
+    font-family: "space mono", monospace;
+    
+}
+
+div{
+    width: 45%; 
+    padding-top: 100px;
+    padding-left: 50px;
 }
 
 h1{
     font-size: 50px;
-    font-family: "space mono";
+    line-height: 1;
     font-weight: 700;
 }
 
 em{
-   font-style: normal;
-   text-shadow: 
+   /* font-style: normal; */
+   text-shadow: -1px 2px 2px red, -1px 4px 2px yellow, -1px -2px 2px blue, -1px -4px 2px rgb(41, 212, 255);
 }
 
 h2{
   font-size: 30px;
-  font-family: "space mono";
   font-weight: 700;
 }
 
 p{
     font-size: 11px;
-    font-family: "space mono";
     font-weight: 700;
 }
