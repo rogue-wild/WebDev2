@@ -4,12 +4,20 @@ html {
 
 
 .fw-bold{
-    color: green;
+    background: -webkit-linear-gradient(#6fef65, #57addb);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
     font-size: 65px;
+    padding-top: 100px;
+    margin-top: -200px;
+    padding-bottom: 10px;
 }
 
 .descp{
     font-size: 40px;
+    margin-bottom: -20px;
 }
 
 .project{
@@ -32,9 +40,16 @@ img{
     
 }
 
+.card-body{
+    background: linear-gradient(77deg, #e8ffef 16%, #dbfffa 92%);
+    border-radius: 5px;
+}
 .btn:hover{
 color: white;
 }
 
+footer{
+    background: linear-gradient(185deg, #cfffdd 16%, #caeff0 92%);
+}
 
 
