@@ -1,0 +1,29 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+
+.fw-bold{
+    color: green;
+    font-size: 65px;
+}
+
+.descp{
+    font-size: 30px;
+}
+
+.card-text{
+    font-size: 30px;
+    font-weight: 400;
+}
+.btn{
+    text-decoration: none;
+    
+}
+
+.btn:hover{
+color: white;
+}
+
+
+
