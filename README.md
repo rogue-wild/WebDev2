@@ -1,4 +1,4 @@
-# Web-Dev
+# Web Development
 Following the Udemy - The HTML & CSS Bootcamp 2023 Edition Course.
 
 | Project Name             | Project Link                                                                             |
