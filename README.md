@@ -22,7 +22,7 @@
 | Project Name             | Project Link                                                                     |
 | -----------              | -----------                                                                      |
 | Cantilever Project       | [Link ](https://rogue-wild.github.io/WebDev2/project-cantilever/index.html)      |
-| Artist Portfolio Project | [Link ](https://rogue-wild.github.io/WebDev2/project-cantilever/index.html)      |
+| Artist Portfolio Project | [Link ](https://rogue-wild.github.io/WebDev2/Artist%20Portfolio/index.html)      |
 | Blog Post  Project       | [Link ](https://rogue-wild.github.io/WebDev2/project-cantilever/index.html)      |
 | Hazel CV Project         | [Link ](https://rogue-wild.github.io/WebDev2/project-cantilever/index.html)      |
 | Cost Estimator Project   | [Link ](https://rogue-wild.github.io/WebDev2/project-cantilever/index.html)      |
