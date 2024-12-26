@@ -16,7 +16,7 @@
 <body>
     <div>
         <h1>Cantilever is a conference for coders who think like <em>artists</em></h1>
-        <h2> 15-17 August 2026</h2>
+        <h2> 15-17 August <span class="date-text"></span></h2>
 
         <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin
             literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at
@@ -36,7 +36,10 @@
             form, accompanied by English versions from the 1914 translation by H. Rackham.</p>
             
     </div>
-
+    <script>
+        let yearText = new Date().getFullYear() + 2;
+        document.getElementsByClassName("date-text")[0].innerHTML = yearText;
+    </script>
 </body>
 
 </html>
